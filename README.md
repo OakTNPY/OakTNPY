@@ -1,8 +1,8 @@
-👋 สวัสดีฮะ OakTNPY เป็นคนที่ชื่นชอบ Visual Novel Games
-ซึ่งกำลังศึกษาการทำด้วย Ren'Py Engine และการ Programing
+👋 สวัสดีฮะ OakTNPY เป็นผู้ที่ชื่นชอบ Visual Novel Games
+ซึ่งกำลังศึกษาการเขียนโปรแกรม ด้วย Ren'Py Engine และ
 Python Languages & more...
 
-🌱 I’m currently learning ReactJS
+🌱 I’m currently learning ReactJS & more...
 
 📫 How to reach me "add @richlanu in twitter"
 
