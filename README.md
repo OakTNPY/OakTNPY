@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @OakTNPY
-- 👀 I’m interested in Visual Novel Games.
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on Ren'Py.
-- 📫 How to reach me "add @richlanu in twitter".
+👋 สวัสดีฮะ OakTNPY เป็นคนที่ชื่นชอบ Visual Novel Games
+ซึ่งกำลังศึกษาการทำด้วย Ren'Py Engine และการ Programing
+Python Languages & more...
+
+🌱 I’m currently learning ReactJS
+
+📫 How to reach me "add @richlanu in twitter"
 
 <!---
 OakTNPY/OakTNPY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
