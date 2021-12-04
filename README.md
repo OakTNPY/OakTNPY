@@ -2,7 +2,7 @@
 ซึ่งกำลังศึกษาการเขียนโปรแกรม ด้วย Ren'Py Engine และ
 Python Languages & more...
 
-🌱 I’m currently learning ReactJS & more...
+🌱 I’m currently learning Python.
 
 📫 How to reach me "add @richlanu in twitter"
 
